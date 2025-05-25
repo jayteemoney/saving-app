@@ -11,7 +11,7 @@ const Dashboard = () => {
           <h3 className="text-lg font-semibold">Total Savings</h3>
           <p className="text-2xl">₦{totalSavings.toLocaleString()}</p>
         </div>
-        <div className="p-4 bg-green-100 rounded-md">
+        <div className="p-4 bg-green-200 rounded-md">
           <h3 className="text-lg font-semibold">Total Members</h3>
           <p className="text-2xl">{students.length}/12</p>
         </div>
