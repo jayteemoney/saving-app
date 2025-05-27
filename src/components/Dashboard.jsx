@@ -15,7 +15,7 @@ const Dashboard = () => {
           <h3 className="text-lg font-semibold">Total Members</h3>
           <p className="text-2xl">{students.length}/12</p>
         </div>
-        <div className="p-4 bg-yellow-200 rounded-md">
+        <div className="p-4 bg-yellow-250 rounded-md">
           <h3 className="text-lg font-semibold">Game ROI</h3>
           <p className="text-2xl">20%</p>
         </div>
