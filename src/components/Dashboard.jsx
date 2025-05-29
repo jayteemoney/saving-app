@@ -12,7 +12,7 @@ const Dashboard = () => {
           <p className="text-2xl">₦{totalSavings.toLocaleString()}</p>
         </div>
         <div className="p-4 bg-green-200 rounded-md">
-          <h3 className="text-lg font-semibold">Total Members</h3>
+          <h3 className="text-lg font-bold">Total Members</h3>
           <p className="text-2xl">{students.length}/12</p>
         </div>
         <div className="p-4 bg-yellow-250 rounded-md">
